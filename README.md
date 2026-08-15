@@ -7,7 +7,7 @@
 **Course:**    Object-Oriented Programming (OOP)  
 **University:** University of Karachi - UBIT  
 **Semester:**  2nd 
-**Course Instructor Name :  ** MS.HUMERA TARIQ 
+**Course Instructor Name :** MS.HUMERA TARIQ 
 
 ---
 
