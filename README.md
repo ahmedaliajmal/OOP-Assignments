@@ -6,7 +6,7 @@
 **Section:**   BSCS-B  
 **Course:**    Object-Oriented Programming (OOP)  
 **University:** University of Karachi - UBIT  
-**Semester:**  2nd                          
+**Semester:**  2nd Semester                         
 **Course Instructor Name :**   MS.HUMERA TARIQ 
 
 ---
