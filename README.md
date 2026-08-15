@@ -1,8 +1,8 @@
 # Object-Oriented Programming Assignments
 
 **Student:**   Ahmed Ali  
-**Seat No**        B25110006009
-**Program:**   Computer Science  BSCS .   
+**Seat No**        B25110006009     .
+**Program:**   Computer Science  BSCS  .   
 **Section:**   BSCS-B  
 **Course:**    Object-Oriented Programming (OOP)  
 **University:** University of Karachi - UBIT  
