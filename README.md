@@ -1,13 +1,13 @@
 # Object-Oriented Programming Assignments
 
-**Student:** Ahmed Ali  
-**Seat No** B25110006009
-**Program:** BSCS  
-**Section:** BSCS-B  
-**Course:** Object-Oriented Programming (OOP)  
+**Student:**   Ahmed Ali  
+**Seat No**    B25110006009
+**Program:**   BSCS  
+**Section:**   BSCS-B  
+**Course:**    Object-Oriented Programming (OOP)  
 **University:** University of Karachi - UBIT  
-**Semester:** 2nd 
-**Course Instructor Name : ** MS.HUMERA TARIQ 
+**Semester:**  2nd 
+**Course Instructor Name :  ** MS.HUMERA TARIQ 
 
 ---
 
