@@ -2,7 +2,7 @@
 
 **Student:**   Ahmed Ali  
 **Seat No**    B25110006009
-**Program:**   BSCS  
+**Program:**   BS-Computer Science   
 **Section:**   BSCS-B  
 **Course:**    Object-Oriented Programming (OOP)  
 **University:** University of Karachi - UBIT  
